@@ -1,20 +1,16 @@
 {
-  "name": "template",
+  "name": "emojis",
   "version": "1.0.0",
-  "description": "🏛 This not the greatest repo in the world, this is a template",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "description": "🗂 Just a bunch of custom emojis",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/maferland/template.git"
+    "url": "git+https://github.com/emojis/template.git"
   },
   "keywords": [],
   "author": "Marc-Antoine Ferland <maferland@hey.com> (https://maferland.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/maferland/template/issues"
+    "url": "https://github.com/emojis/template/issues"
   },
-  "homepage": "https://github.com/maferland/template#readme"
+  "homepage": "https://github.com/emojis/template#readme"
 }
