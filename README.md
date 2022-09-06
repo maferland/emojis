@@ -19,7 +19,6 @@
 
 | Name                   | Image                                            |
 | ---------------------- | ------------------------------------------------ |
-| :crap:                 | ![crap](emojis/crap.png)                         |
 | :marco_hawai:          | ![hawai](emojis/marco_hawai.png)                 |
 | :marco_camper:         | ![marco_camper](emojis/marco_camper.jpg)         |
 | :marco_crossift:       | ![marco_crossift](emojis/marco_crossift.png)     |
@@ -28,6 +27,7 @@
 | :marco_ponders_at_sea: | ![woopsie](emojis/marco_ponders_at_sea.png)      |
 | :marco_freeze:         | ![woopsie](emojis/marco_freeze.png)              |
 | :marco_matrix:         | ![woopsie](emojis/marco_matrix.png)              |
+| :crap:                 | ![crap](emojis/crap.png)                         |
 | :rolling_devil:        | ![rolling_devil](emojis/rolling_devil.png)       |
 | :sceptical_cowboy:     | ![sceptical_cowboy](emojis/sceptical_cowboy.png) |
 | :well:                 | ![well](emojis/well.png)                         |
