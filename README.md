@@ -33,6 +33,7 @@
 | :well:                 | ![well](emojis/well.png)                         |
 | :woah:                 | ![woah](emojis/woah.png)                         |
 | :woopsie:              | ![woopsie](emojis/woopsie.png)                   |
+| :marco-freeze-phase-2: | ![woopsie](emojis/marco-freeze-phase-2.png)      |
 
 ## Author
 
