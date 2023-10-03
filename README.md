@@ -17,23 +17,25 @@
 
 ## List
 
-| Name                   | Image                                            |
-| ---------------------- | ------------------------------------------------ |
-| :marco_hawai:          | ![hawai](emojis/marco_hawai.png)                 |
-| :marco_camper:         | ![marco_camper](emojis/marco_camper.jpg)         |
-| :marco_crossift:       | ![marco_crossift](emojis/marco_crossift.png)     |
-| :marco_lucha:          | ![marco_lucha](emojis/marco_lucha.png)           |
-| :marco_russian:        | ![marco_russian](emojis/marco_russian.jpg)       |
-| :marco_ponders_at_sea: | ![woopsie](emojis/marco_ponders_at_sea.png)      |
-| :marco_freeze:         | ![woopsie](emojis/marco_freeze.png)              |
-| :marco_matrix:         | ![woopsie](emojis/marco_matrix.png)              |
-| :crap:                 | ![crap](emojis/crap.png)                         |
-| :rolling_devil:        | ![rolling_devil](emojis/rolling_devil.png)       |
-| :sceptical_cowboy:     | ![sceptical_cowboy](emojis/sceptical_cowboy.png) |
-| :well:                 | ![well](emojis/well.png)                         |
-| :woah:                 | ![woah](emojis/woah.png)                         |
-| :woopsie:              | ![woopsie](emojis/woopsie.png)                   |
-| :marco-freeze-phase-2: | ![woopsie](emojis/marco-freeze-phase-2.png)      |
+| Name                     | Image                                            |
+| ------------------------ | ------------------------------------------------ |
+| :marco_hawai:            | ![hawai](emojis/marco_hawai.png)                 |
+| :marco_camper:           | ![marco_camper](emojis/marco_camper.jpg)         |
+| :marco_crossift:         | ![marco_crossift](emojis/marco_crossift.png)     |
+| :marco_lucha:            | ![marco_lucha](emojis/marco_lucha.png)           |
+| :marco_russian:          | ![marco_russian](emojis/marco_russian.jpg)       |
+| :marco_ponders_at_sea:   | ![woopsie](emojis/marco_ponders_at_sea.png)      |
+| :marco_freeze:           | ![woopsie](emojis/marco_freeze.png)              |
+| :marco_matrix:           | ![woopsie](emojis/marco_matrix.png)              |
+| :crap:                   | ![crap](emojis/crap.png)                         |
+| :rolling_devil:          | ![rolling_devil](emojis/rolling_devil.png)       |
+| :sceptical_cowboy:       | ![sceptical_cowboy](emojis/sceptical_cowboy.png) |
+| :well:                   | ![well](emojis/well.png)                         |
+| :woah:                   | ![woah](emojis/woah.png)                         |
+| :woopsie:                | ![woopsie](emojis/woopsie.png)                   |
+| :marco-freeze-phase-2:   | ![woopsie](emojis/marco-freeze-phase-2.png)      |
+| :marco-serious-business: | ![woopsie](emojis/marco-serious-business.png)    |
+| :laughing-mad:           | ![woopsie](emojis/laughing-mad.png)              |
 
 ## Author
 
