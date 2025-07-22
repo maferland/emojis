@@ -17,26 +17,26 @@
 
 ## List
 
-| Name                     | Image                                                        |
-| ------------------------ | ------------------------------------------------------------ |
-| :marco-hawai:            | ![hawai](emojis/marco-hawai.png)                             |
-| :marco-camper:           | ![marco-camper](emojis/marco-camper.jpg)                     |
-| :marco-crossfit:         | ![marco-crossfit](emojis/marco-crossfit.png)                 |
-| :marco-lucha:            | ![marco-lucha](emojis/marco-lucha.png)                       |
-| :marco-russian:          | ![marco-russian](emojis/marco-russian.jpg)                   |
-| :marco-ponders-at-sea:   | ![marco-ponders-at-sea](emojis/marco-ponders-at-sea.png)     |
-| :marco-freeze:           | ![marco-freeze](emojis/marco-freeze.png)                     |
-| :marco-matrix:           | ![marco-matrix](emojis/marco-matrix.png)                     |
-| :crap:                   | ![crap](emojis/crap.png)                                     |
-| :rolling_devil:          | ![rolling_devil](emojis/rolling_devil.png)                   |
-| :sceptical_cowboy:       | ![sceptical_cowboy](emojis/sceptical_cowboy.png)             |
-| :well:                   | ![well](emojis/well.png)                                     |
-| :woah:                   | ![woah](emojis/woah.png)                                     |
-| :woopsie:                | ![woopsie](emojis/woopsie.png)                               |
-| :marco-freeze-phase-2:   | ![marco-freeze-phase-2](emojis/marco-freeze-phase-2.png)     |
-| :marco-serious-business: | ![marco-serious-business](emojis/marco-serious-business.png) |
-| :laughing-mad:           | ![laughing-mad](emojis/laughing-mad.png)                     |
-| :lolsob:                 | ![lolsob](emojis/lolsob.png)                                 |
+| Name                     | Image                                                                                 |
+| ------------------------ | ------------------------------------------------------------------------------------- |
+| :marco-hawai:            | <img src="emojis/marco-hawai.png" width="32" alt="hawai">                             |
+| :marco-camper:           | <img src="emojis/marco-camper.jpg" width="32" alt="marco-camper">                     |
+| :marco-crossfit:         | <img src="emojis/marco-crossfit.png" width="32" alt="marco-crossfit">                 |
+| :marco-lucha:            | <img src="emojis/marco-lucha.png" width="32" alt="marco-lucha">                       |
+| :marco-russian:          | <img src="emojis/marco-russian.jpg" width="32" alt="marco-russian">                   |
+| :marco-ponders-at-sea:   | <img src="emojis/marco-ponders-at-sea.png" width="32" alt="marco-ponders-at-sea">     |
+| :marco-freeze:           | <img src="emojis/marco-freeze.png" width="32" alt="marco-freeze">                     |
+| :marco-matrix:           | <img src="emojis/marco-matrix.png" width="32" alt="marco-matrix">                     |
+| :crap:                   | <img src="emojis/crap.png" width="32" alt="crap">                                     |
+| :rolling_devil:          | <img src="emojis/rolling_devil.png" width="32" alt="rolling_devil">                   |
+| :sceptical_cowboy:       | <img src="emojis/sceptical_cowboy.png" width="32" alt="sceptical_cowboy">             |
+| :well:                   | <img src="emojis/well.png" width="32" alt="well">                                     |
+| :woah:                   | <img src="emojis/woah.png" width="32" alt="woah">                                     |
+| :woopsie:                | <img src="emojis/woopsie.png" width="32" alt="woopsie">                               |
+| :marco-freeze-phase-2:   | <img src="emojis/marco-freeze-phase-2.png" width="32" alt="marco-freeze-phase-2">     |
+| :marco-serious-business: | <img src="emojis/marco-serious-business.png" width="32" alt="marco-serious-business"> |
+| :laughing-mad:           | <img src="emojis/laughing-mad.png" width="32" alt="laughing-mad">                     |
+| :lolsob:                 | <img src="emojis/lolsob.png" width="32" alt="lolsob">                                 |
 
 ## Author
 
