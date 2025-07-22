@@ -36,6 +36,7 @@
 | :marco-freeze-phase-2:   | ![marco-freeze-phase-2](emojis/marco-freeze-phase-2.png)     |
 | :marco-serious-business: | ![marco-serious-business](emojis/marco-serious-business.png) |
 | :laughing-mad:           | ![laughing-mad](emojis/laughing-mad.png)                     |
+| :lolsob:                 | ![lolsob](emojis/lolsob.png)                                 |
 
 ## Author
 
